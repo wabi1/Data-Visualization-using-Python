@@ -1,4 +1,5 @@
 # Comparison of the Killings of Journalists in India and the USA (2000 to 2021)
+# Data Visualization Graph
 
 # Goal
 The aim of this study is to present the profession of journalism to be dangerous, especially in developing countries. India and USA have been chosen as examples for the comparison of the level of danger journalists go through in a developed and developing country. The data for the project has been sourced from Committee to Protect Journalists.
