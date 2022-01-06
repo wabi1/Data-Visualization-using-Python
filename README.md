@@ -9,6 +9,6 @@ The aim of this study is to present the profession of journalism to be dangerous
 The comparison graph displays the data of the killings of journalists in India and the USA from 2000 to 2021. 
 
 # Tech Stack used:
-1) Python ( Matplotlib and Pandas)
+1) Python (Matplotlib and Seaborn)
 2) HTML
 3) Excel
